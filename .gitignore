@@ -44,3 +44,5 @@ next-env.d.ts
 # runs on every build. Committing it would add ~800 files per measurement.
 /data/derived
 /public/api
+
+.vercel
