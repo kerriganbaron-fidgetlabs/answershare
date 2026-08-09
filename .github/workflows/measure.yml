@@ -1,0 +1,69 @@
+name: Weekly measurement
+
+# The whole point of this project is that the dataset stays current without
+# anyone remembering to run it. This job measures, re-derives, and commits.
+# Vercel deploys on the resulting push, so a finished run is live within minutes
+# with no further step.
+on:
+  schedule:
+    # Mondays 03:20 UTC. Off the hour to avoid the scheduling stampede that
+    # makes GitHub delay jobs booked exactly on the hour.
+    - cron: "20 3 * * 1"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Measure only the first N queries (leave blank for all)"
+        required: false
+        type: string
+
+concurrency:
+  group: measurement
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  measure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # The scoring rules are what make the dataset citable. If they regress,
+      # no measurement is published at all.
+      - name: Verify scoring rules
+        run: npm test
+
+      - name: Measure
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          # Results differ by network location, so the vantage point is recorded
+          # and change detection is suppressed across a mismatch.
+          ANSWERSHARE_VANTAGE: gha-ubuntu
+        run: npm run measure ${{ inputs.limit && format('-- --limit {0}', inputs.limit) || '' }}
+
+      # Proves the run can actually be scored before it is committed. The output
+      # is not committed: it is regenerated on every build from the run files,
+      # which keeps ~800 derived files per week out of the repository.
+      - name: Verify the run derives cleanly
+        run: npm run derive
+
+      - name: Commit run
+        run: |
+          git config user.name "Answer Share measurement"
+          git config user.email "kerriganbaron@fidgetlabs.io"
+          git add data/runs
+          if git diff --staged --quiet; then
+            echo "No change to publish."
+            exit 0
+          fi
+          git commit -m "Measurement run $(date -u +%Y-%m-%d)"
+          git push
