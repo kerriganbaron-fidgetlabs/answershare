@@ -1,0 +1,5263 @@
+{
+  "runId": "2026-10-05",
+  "corpusVersion": "2026-08-09.1",
+  "probeVersion": 1,
+  "vantage": "gha-ubuntu",
+  "startedAt": "2026-10-05T10:29:09.956Z",
+  "finishedAt": "2026-10-05T10:30:16.472Z",
+  "engines": [
+    {
+      "id": "perplexity-sonar",
+      "label": "Perplexity",
+      "model": "sonar",
+      "surface": "Perplexity's Sonar API. This is the same retrieval-and-answer pipeline behind Perplexity's consumer answers, queried programmatically. It is not a scrape of the consumer web interface."
+    }
+  ],
+  "observations": [
+    {
+      "queryId": "aeo-best-overall",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:14.397Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://llmpulse.ai/blog/best-ai-visibility-tools/",
+          "domain": "llmpulse.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/ai-search-analytics-tools",
+          "domain": "blog.hubspot.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.integrate.io/blog/best-ai-visibility-tracking-tools/",
+          "domain": "integrate.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://surferseo.com/blog/best-ai-visibility-tools/",
+          "domain": "surferseo.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://birdeye.com/blog/best-ai-search-visibility-tools/",
+          "domain": "birdeye.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.sitepoint.com/ai-brand-visibility-monitoring-tools/",
+          "domain": "sitepoint.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://trustmary.com/ai-visibility/best-ai-search-visibility-tools/",
+          "domain": "trustmary.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/best-ai-visibility-tools/",
+          "domain": "semrush.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/blog/llm-monitoring-tools/",
+          "domain": "semrush.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wix.com/studio/ai-search-lab/best-tools-to-track-brand-visibility-in-ai-search",
+          "domain": "wix.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-cheapest",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:13.007Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://thatmarketingbuddy.com/best/ai-search-visibility-tools",
+          "domain": "thatmarketingbuddy.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://linkeddit.com/blog/best-ai-brand-monitoring-tools",
+          "domain": "linkeddit.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elfsight.com/blog/best-ai-brand-mention-tracking-tools/",
+          "domain": "elfsight.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.pepper.inc/blog/track-brand-mentions-ai-search/",
+          "domain": "pepper.inc",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/brand-monitoring-software-cost",
+          "domain": "trysight.ai",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.vismore.ai/blog/track-brand-mentions-ai-search",
+          "domain": "vismore.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.honeyb.ai/blog/chatgpt-brand-monitoring-tools",
+          "domain": "honeyb.ai",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/brand-mention-tracking-platform",
+          "domain": "trysight.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://deepsmith.ai/blog/best-ai-brand-monitoring-tools-for-marketers",
+          "domain": "deepsmith.ai",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://moz.com/blog/best-brand-monitoring-tools",
+          "domain": "moz.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-for-agencies",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:13.874Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://slatehq.com/blog/ai-visibility-tools",
+          "domain": "slatehq.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cognizo.ai/blog/ai-visibility-tools-for-agencies",
+          "domain": "cognizo.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/top-8-ai-visibility-trackers-agencies-2026-shubham-singh-nueaf",
+          "domain": "linkedin.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://indexly.ai/blog/ai-visibility-tools-for-small-businesses/",
+          "domain": "indexly.ai",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://indexly.ai/blog/best-ai-search-visibility-tools-for-agencies-2026/",
+          "domain": "indexly.ai",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives",
+          "domain": "blog.hubspot.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://explodingtopics.com/blog/ai-visibility-tools-marketing",
+          "domain": "explodingtopics.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.yotpo.com/blog/ai-visibility-tools-marketing-agencies/",
+          "domain": "yotpo.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
+          "domain": "semrush.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.rankability.com/blog/best-ai-search-visibility-tracking-tools/",
+          "domain": "rankability.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-profound-alternatives",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:13.980Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://cloro.dev/blog/profound-alternatives-ai-brand-monitoring/",
+          "domain": "cloro.dev",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://zerorank.ai/blog/best-profound-ai-alternatives",
+          "domain": "zerorank.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://writesonic.com/blog/profound-alternatives",
+          "domain": "writesonic.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/profound-vs-other-ai-monitoring-tools",
+          "domain": "trysight.ai",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.rankability.com/blog/profound-ai-alternatives/",
+          "domain": "rankability.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://seranking.com/blog/profound-alternatives/",
+          "domain": "seranking.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.frase.io/blog/profound-alternatives",
+          "domain": "frase.io",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.sitepoint.com/best-profound-ai-alternatives/",
+          "domain": "sitepoint.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://amplitude.com/compare/best-ai-visibility-tools",
+          "domain": "amplitude.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/profound-alternatives",
+          "domain": "blog.hubspot.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-measure-citations",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:17.573Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://blog.hubspot.com/marketing/ai-citation-tracking",
+          "domain": "blog.hubspot.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dev.to/yonatan_naor_5642e43447ea/how-to-measure-whether-ai-assistants-cite-your-site-4po5",
+          "domain": "dev.to",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.stackmatix.com/blog/aeo-measurement-tracking-guide",
+          "domain": "stackmatix.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://supermetrics.com/blog/measure-ai-search-visibility",
+          "domain": "supermetrics.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://cliquestudios.com/university/perspectives/measuring-ai-search-visibility",
+          "domain": "cliquestudios.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://keyword.com/blog/how-to-track-ai-overviews/",
+          "domain": "keyword.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/free-tools/ai-search-visibility-checker/",
+          "domain": "semrush.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/ai-citation-tracking-tools",
+          "domain": "blog.hubspot.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.highervisibility.com/seo/learn/ai-search-visibility/",
+          "domain": "highervisibility.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.yext.com/knowledge-center/how-to-measure-ai-visibility",
+          "domain": "yext.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-vs-seo-tools",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:17.467Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.stackmatix.com/blog/aeo-tools-for-startups",
+          "domain": "stackmatix.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.rankability.com/blog/best-aeo-tracking-tools/",
+          "domain": "rankability.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.entrepreneurshiplife.com/seo-tools-vs-aeo-tools/",
+          "domain": "entrepreneurshiplife.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.alium.io/research/what-is-answer-engine-optimization",
+          "domain": "alium.io",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.tryprofound.com/blog/9-best-answer-engine-optimization-platforms",
+          "domain": "tryprofound.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://geoptie.com/blog/best-aeo-tools",
+          "domain": "geoptie.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.seoclarity.net/blog/best-ai-search-seo-platforms",
+          "domain": "seoclarity.net",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thebrandhopper.com/tools/best-aeo-geo-tools/",
+          "domain": "thebrandhopper.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://technologyadvice.com/blog/sales/aeo-vs-seo/",
+          "domain": "technologyadvice.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/aeo-rank-trackers",
+          "domain": "blog.hubspot.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-enterprise",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:17.786Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://marketful.com/ai-visibility-tools",
+          "domain": "marketful.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.conductor.com/academy/best-ai-visibility-platforms/",
+          "domain": "conductor.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://llmpulse.ai/blog/best-ai-visibility-tools/",
+          "domain": "llmpulse.ai",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.rivo.io/blog/ai-visibility-tracking-tools",
+          "domain": "rivo.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-visibility-tracking-for-enterprises",
+          "domain": "trysight.ai",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://gracker.ai/blog/best-ai-visibility-tools-b2b-saas",
+          "domain": "gracker.ai",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-content-compliance-tools",
+          "domain": "trysight.ai",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-visibility-software-for-enterprises",
+          "domain": "trysight.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.marketing91.com/ai-search-visibility-tools/",
+          "domain": "marketing91.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://analytify.io/best-ai-visibility-tools/",
+          "domain": "analytify.io",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-get-cited-chatgpt",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:17.571Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://help.openai.com/en/articles/12627856",
+          "domain": "help.openai.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
+          "domain": "blog.hubspot.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://promptwatch.com/blog/chatgpt-seo",
+          "domain": "promptwatch.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://help.openai.com/zh-hans-cn/articles/12627856-publishers-and-developers-faq",
+          "domain": "help.openai.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://marketerhire.com/blog/how-to-get-cited-by-chatgpt",
+          "domain": "marketerhire.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://statuslabs.com/blog/how-can-i-make-my-website-more-likely-to-be-cited-in-chatgpt",
+          "domain": "statuslabs.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://contently.com/2026/04/29/how-to-get-cited-in-chatgpt/",
+          "domain": "contently.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.webyes.com/blogs/rank-on-searchgpt/",
+          "domain": "webyes.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://seranking.com/blog/how-to-optimize-for-chatgpt/",
+          "domain": "seranking.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://prerender.io/blog/how-to-get-indexed-on-ai-platforms/",
+          "domain": "prerender.io",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-get-cited-perplexity",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:21.016Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://thestacc.com/blog/optimize-for-perplexity-ai/",
+          "domain": "thestacc.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.stackmatix.com/blog/perplexity-ai-optimization-strategy",
+          "domain": "stackmatix.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://nav43.com/blog/how-to-get-perplexity-to-reference-your-content/",
+          "domain": "nav43.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.miniloop.ai/blog/perplexity-seo-how-to-get-cited-2026",
+          "domain": "miniloop.ai",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://searchatlas.com/blog/rank-perplexity-ai/",
+          "domain": "searchatlas.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.ranktracker.com/blog/get-cited-in-perplexity/",
+          "domain": "ranktracker.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wix.com/studio/ai-search-lab/how-to-rank-in-perplexity",
+          "domain": "wix.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://authoritytech.io/blog/how-to-get-cited-in-perplexity-ai-2026",
+          "domain": "authoritytech.io",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://wellows.com/blog/perplexity-search-visibility-tips/",
+          "domain": "wellows.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://upgrowth.in/how-to-get-cited-by-perplexity-ai/",
+          "domain": "upgrowth.in",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-llms-txt-worth-it",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:20.854Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.greadme.com/blog/seo/is-llms-txt-worth-it-for-ai-search",
+          "domain": "greadme.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.pepper.inc/blog/what-is-llms-txt-and-should-you-use-it/",
+          "domain": "pepper.inc",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.euracle.com/blog/llmstxt",
+          "domain": "euracle.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ahrefs.com/blog/llmstxt-study/",
+          "domain": "ahrefs.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://trueranker.com/blog/llms-txt/",
+          "domain": "trueranker.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.madx.digital/learn/llms-txt",
+          "domain": "madx.digital",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://visible.seranking.com/blog/llms-txt/",
+          "domain": "visible.seranking.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/posts/briandecoded_9914-of-llmstxt-files-got-zero-requests-activity-7475911340604411904-VjTs",
+          "domain": "linkedin.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.coredna.com/blogs/llms-txt-do-you-need-it",
+          "domain": "coredna.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://beamtrace.com/blog/llms-txt",
+          "domain": "beamtrace.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-track-competitors",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:22.491Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://trakkr.ai/ai-brand-monitoring",
+          "domain": "trakkr.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://linkeddit.com/blog/best-ai-brand-monitoring-tools",
+          "domain": "linkeddit.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.seoptimer.com/blog/ai-search-competitor-analysis/",
+          "domain": "seoptimer.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.meltwater.com/en/blog/ai-visibility",
+          "domain": "meltwater.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://clutch.co/resources/ai-brand-monitoring",
+          "domain": "clutch.co",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sourceforge.net/software/ai-search-monitoring/india/?page=6",
+          "domain": "sourceforge.net",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecommercegermany.com/blog/7-tools-that-show-e-commerce-brands-how-ai-recommends-their-products/",
+          "domain": "ecommercegermany.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.brainlabsdigital.com/the-10-best-tools-for-tracking-ai-visibility/",
+          "domain": "brainlabsdigital.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/ai-brand-mention-citation-tracking-tools-alina-khursheed-hqbwc",
+          "domain": "linkedin.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://truintel.ai/ai-search-monitoring",
+          "domain": "truintel.ai",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-pricing-comparison",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:21.639Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.rankability.com/blog/how-much-should-you-pay-for-ai-search-visibility-tracking-tools/",
+          "domain": "rankability.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cheers.tech/geo-academy/how-much-does-ai-visibility-software-cost",
+          "domain": "cheers.tech",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.superlines.io/articles/ai-search-visibility-tools-comparison",
+          "domain": "superlines.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/blog/best-ai-visibility-tools/",
+          "domain": "semrush.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.business.com/categories/best-ai-visibility/",
+          "domain": "business.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.capterra.com/resources/how-to-choose-ai-search-visibility-tools/",
+          "domain": "capterra.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://trustmary.com/ai-visibility/best-ai-search-visibility-tools/",
+          "domain": "trustmary.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.softwareadvice.com/category/5042-ai-search-visibility/",
+          "domain": "softwareadvice.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://amplitude.com/compare/best-ai-visibility-monitoring-tools",
+          "domain": "amplitude.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://wpseoai.com/blog/ai-search-visibility-tool-pricing-what-to-expect-in-2026/",
+          "domain": "wpseoai.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-free-checker",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:23.174Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://ahrefs.com/ai-visibility-checker",
+          "domain": "ahrefs.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://rankprompt.com/top-platforms-to-track-ai-assistant-mentions-of-your-brand/",
+          "domain": "rankprompt.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://linkeddit.com/blog/best-ai-brand-monitoring-tools",
+          "domain": "linkeddit.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://elfsight.com/blog/best-ai-brand-mention-tracking-tools/",
+          "domain": "elfsight.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/is-your-brand-visible-in-ai-search-results/",
+          "domain": "semrush.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/ai-visibility-launches-free-tool-to-measure-whether-ai-assistants-recommend-your-brand/",
+          "domain": "martechseries.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://seomator.com/ai-brand-visibility-checker",
+          "domain": "seomator.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://ahrefs.com/blog/brand-mentions/",
+          "domain": "ahrefs.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/free-tools/ai-search-visibility-checker/",
+          "domain": "semrush.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.unite.ai/semrush-review/",
+          "domain": "unite.ai",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-ecommerce",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:24.721Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://rankprompt.com/best-ai-visibility-tools-for-ecommerce/",
+          "domain": "rankprompt.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecommerceparadise.com/best-ai-visibility-tools/",
+          "domain": "ecommerceparadise.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecommerceguide.com/ai-visibility-tools/",
+          "domain": "ecommerceguide.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.yotpo.com/blog/ai-search-optimization-tools/",
+          "domain": "yotpo.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/ae/blog/ai-seo-tools",
+          "domain": "shopify.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://alhena.ai/blog/best-ai-visibility-tools-ecommerce/",
+          "domain": "alhena.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.yotpo.com/blog/ai-seo-tools-ecommerce/",
+          "domain": "yotpo.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://debutify.com/blog/best-ai-visibility-tools-for-ecommerce-brands",
+          "domain": "debutify.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://elementor.com/blog/best-ai-visibility-platforms-ecommerce/",
+          "domain": "elementor.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.cognizo.ai/blog/best-ai-visibility-tools-for-e-commerce",
+          "domain": "cognizo.ai",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "aeo-b2b-saas",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:24.085Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://wellows.com/blog/ai-visibility-tools/",
+          "domain": "wellows.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.supermarketers.ai/aeo/best-ai-visibility-tools",
+          "domain": "supermarketers.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/10-best-ai-visibility-tools-b2b-saas-companies-2026-david-brown-w50ic",
+          "domain": "linkedin.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.therankmasters.com/insights/ai-visibility/best-ai-tools-monitor-saas-brand-visibility-chatgpt-perplexity",
+          "domain": "therankmasters.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://securityboulevard.com/2026/08/the-best-ai-visibility-tools-in-2026-what-each-one-actually-measures/",
+          "domain": "securityboulevard.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://europeanbusinessmagazine.com/the-best-ai-visibility-tools-for-b2b-saas-companies-in-2026/",
+          "domain": "europeanbusinessmagazine.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://gracker.ai/stories/ai-visibility-tools-2026/",
+          "domain": "gracker.ai",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://discoveredlabs.com/blog/best-ai-visibility-tools-saas",
+          "domain": "discoveredlabs.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://gracker.ai/blog/ai-visibility-tools-competitor-tracking",
+          "domain": "gracker.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-visibility-software-for-enterprises",
+          "domain": "trysight.ai",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-best-overall",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:25.065Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://searchatlas.com/blog/seo-tools/",
+          "domain": "searchatlas.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://gitnux.org/best/all-in-one-seo-software/",
+          "domain": "gitnux.org",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://targetinternet.com/resources/seo-tools-comparison-raven-seomoz-buzzstream/",
+          "domain": "targetinternet.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.guideflow.com/blog/best-seo-tools",
+          "domain": "guideflow.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-seo-tools",
+          "domain": "learn.g2.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://memeburn.com/best-ai-seo-tools/",
+          "domain": "memeburn.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://almcorp.com/blog/best-seo-tools-2026-complete-analysis/",
+          "domain": "almcorp.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://zapier.com/blog/best-seo-tools/",
+          "domain": "zapier.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.experte.com/seo/seo-tools",
+          "domain": "experte.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://almcorp.com/blog/top-seo-tools-2026/",
+          "domain": "almcorp.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-semrush-vs-ahrefs",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:26.225Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://searchlab.nl/en/compare/ahrefs-vs-semrush",
+          "domain": "searchlab.nl",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/vs/semrush-vs-ahrefs/",
+          "domain": "semrush.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://seomator.com/blog/semrush-vs-ahrefs",
+          "domain": "seomator.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sonary.com/content/semrush-vs-ahrefs/",
+          "domain": "sonary.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.stylefactoryproductions.com/blog/ahrefs-vs-semrush",
+          "domain": "stylefactoryproductions.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/is-ahrefs-worth-it",
+          "domain": "learn.g2.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.99signals.com/semrush-vs-ahrefs/",
+          "domain": "99signals.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://explodingtopics.com/blog/ahrefs-vs-semrush",
+          "domain": "explodingtopics.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.01net.com/en/seo/tools/ahrefs-vs-moz-vs-semrush/",
+          "domain": "01net.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://searchatlas.com/blog/ahrefs-vs-semrush/",
+          "domain": "searchatlas.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-cheapest",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:26.486Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://webseotrends.com/blog/affordable-seo-tools/",
+          "domain": "webseotrends.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://thestacc.com/best/affordable-seo-tools/",
+          "domain": "thestacc.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://searchlab.nl/en/compare/best-seo-tools",
+          "domain": "searchlab.nl",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thestacc.com/best/budget-seo-tools/",
+          "domain": "thestacc.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-seo-tools",
+          "domain": "learn.g2.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://resourcera.com/guide/best-seo-tools/",
+          "domain": "resourcera.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://webseotrends.com/ahrefs-alternatives/",
+          "domain": "webseotrends.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.link-assistant.com/rankdots/blog/best-seo-software-for-small-businesses.html",
+          "domain": "link-assistant.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/best-cheap-seo-tools-ahmed-moeez-s2bbf",
+          "domain": "linkedin.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.therankmasters.com/insights/seo-tools/best-cheap-seo-tools",
+          "domain": "therankmasters.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "seo-for-agencies",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:26.942Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.rankability.com/blog/best-seo-reporting-tools/",
+          "domain": "rankability.com",
+          "position": 1,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.stackmatix.com/blog/best-seo-software-for-agencies",
+          "domain": "stackmatix.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://whatagraph.com/blog/articles/seo-reporting-tools-for-agencies",
+          "domain": "whatagraph.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://agencyanalytics.com/blog/seo-reporting-tools-for-agencies",
+          "domain": "agencyanalytics.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.indiehackers.com/post/best-seo-software-for-agencies-2026-i-ran-40-client-campaigns-on-10-platforms-and-only-3-scaled-without-breaking-149d79e709",
+          "domain": "indiehackers.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.singlegrain.com/artificial-intelligence/best-seo-reporting-tools-in-2026/",
+          "domain": "singlegrain.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://backlinko.com/best-seo-reporting-tools",
+          "domain": "backlinko.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://onelittleweb.com/top-tools/best-seo-tools-for-agencies/",
+          "domain": "onelittleweb.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
+          "domain": "zdnet.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://onelittleweb.com/top-tools/best-seo-reporting-tools/",
+          "domain": "onelittleweb.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "seo-technical-audit",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:27.333Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.experte.com/seo/seo-audit-tools",
+          "domain": "experte.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.seo.com/tools/technical-seo/",
+          "domain": "seo.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.flowninja.com/blog/best-site-audit-tools",
+          "domain": "flowninja.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://backlinko.com/best-seo-audit-tools",
+          "domain": "backlinko.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/25-best-seo-audit-tools-2026-every-marketer-should-use-jigar-beladiya-ywawf",
+          "domain": "linkedin.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://fueler.io/blog/best-seo-audit-tools-for-technical-seo",
+          "domain": "fueler.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.zapier.com/blog/best-seo-audit-tools/",
+          "domain": "zapier.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/seo-audit-tools/",
+          "domain": "semrush.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hubspot.com/website/website-auditing-tools",
+          "domain": "blog.hubspot.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://agencyanalytics.com/blog/best-seo-audit-tools",
+          "domain": "agencyanalytics.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-rank-tracking",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:28.830Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://distribb.io/blog/seo-rank-tracker",
+          "domain": "distribb.io",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://readdy.ai/blog/best-rank-tracker-tools",
+          "domain": "readdy.ai",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.marketermilk.com/blog/best-rank-tracker-software",
+          "domain": "marketermilk.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://bloggingwizard.com/rank-tracking-tools/",
+          "domain": "bloggingwizard.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.tooltester.com/en/blog/best-serp-tracking/",
+          "domain": "tooltester.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://onelittleweb.com/top-tools/best-rank-tracking-software/",
+          "domain": "onelittleweb.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://zapier.com/blog/best-rank-tracker/",
+          "domain": "zapier.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://searchatlas.com/blog/rank-tracking-tools/",
+          "domain": "searchatlas.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.plerdy.com/blog/best-rank-tracking-tools/",
+          "domain": "plerdy.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.monsterinsights.com/best-search-engine-ranking-checker-tools/",
+          "domain": "monsterinsights.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "seo-free-tools",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:31.357Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.seo.com/tools/free-seo-tools/",
+          "domain": "seo.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.stackmatix.com/blog/free-ai-seo-software-tools",
+          "domain": "stackmatix.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.experte.com/seo/free-seo-tools",
+          "domain": "experte.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.01net.com/en/seo/tools/free/",
+          "domain": "01net.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.marketermilk.com/blog/best-seo-tools",
+          "domain": "marketermilk.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://moz.com/blog/best-free-seo-tools",
+          "domain": "moz.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://learn.g2.com/best-seo-tools",
+          "domain": "learn.g2.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://databox.com/best-free-seo-tools",
+          "domain": "databox.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.cmswire.com/digital-marketing/10-best-free-seo-tools-for-marketers/",
+          "domain": "cmswire.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://learn.g2.com/best-free-seo-tools",
+          "domain": "learn.g2.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "seo-content-optimization",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:30.167Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.rankability.com/blog/surfer-vs-frase-vs-clearscope-vs-neuronwriter/",
+          "domain": "rankability.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.frase.io/blog/8-best-surfer-seo-alternatives-in-2026-ranked-and-reviewed",
+          "domain": "frase.io",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.frase.io/blog/clearscope-alternatives",
+          "domain": "frase.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://seohive.io/blog/surfer-seo-vs-frase-vs-clearscope-which-content-optimizer-wins",
+          "domain": "seohive.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thestacc.com/best/content-optimization-tools/",
+          "domain": "thestacc.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wellows.com/blog/best-ai-content-optimization-tools/",
+          "domain": "wellows.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.miniloop.ai/blog/best-content-optimization-tools",
+          "domain": "miniloop.ai",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://thestacc.com/best/on-page-seo-tools/",
+          "domain": "thestacc.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://surferseo.com/blog/clearscope-alternatives/",
+          "domain": "surferseo.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://serpclub.com/best-seo-tools-for-content-marketers/",
+          "domain": "serpclub.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-local",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:30.251Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://gbppromote.com/best-local-seo-tools-for-multi-location-businesses/",
+          "domain": "gbppromote.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://thesiliconreview.com/2026/08/local-seo-tools-multi-location",
+          "domain": "thesiliconreview.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://birdeye.com/blog/best-local-seo-tools/",
+          "domain": "birdeye.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/7-best-local-seo-tools-rankings-listings-reviews-snehil-srivastava-moxef",
+          "domain": "linkedin.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://hackernoon.com/10-of-the-best-local-seo-tools-for-multi-location-agencies-in-2026",
+          "domain": "hackernoon.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thecmo.com/tools/best-local-seo-tools/",
+          "domain": "thecmo.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.seoclarity.net/blog/best-local-seo-tools",
+          "domain": "seoclarity.net",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.rankability.com/blog/best-local-seo-tools/",
+          "domain": "rankability.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.getapp.com/all-software/local-seo-tools/f/multi-location/",
+          "domain": "getapp.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.chatmeter.com/resource/blog/best-local-seo-tools/",
+          "domain": "chatmeter.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-ai-mode-impact",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:31.858Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.rankability.com/blog/best-google-ai-overview-trackers/",
+          "domain": "rankability.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://explodingtopics.com/blog/ai-overview-tracking",
+          "domain": "explodingtopics.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ahrefs.com/ai-mode-tracker",
+          "domain": "ahrefs.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://birdeye.com/blog/best-ai-search-visibility-tools/",
+          "domain": "birdeye.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://backlinko.com/llm-tracking-tools",
+          "domain": "backlinko.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://keyword.com/ai-search-visibility/",
+          "domain": "keyword.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://supermetrics.com/blog/measure-ai-search-visibility",
+          "domain": "supermetrics.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-tools",
+          "domain": "blog.hubspot.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.semrush.com/free-tools/ai-search-visibility-checker/",
+          "domain": "semrush.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://searchengineland.com/guide/how-to-measure-brand-visibility",
+          "domain": "searchengineland.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-small-business",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:32.831Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://morningscore.io/best-seo-software-for-small-businesses/",
+          "domain": "morningscore.io",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://seomator.com/blog/affordable-seo-tools",
+          "domain": "seomator.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.therankmasters.com/insights/seo-tools/best-seo-tools-for-small-businesses",
+          "domain": "therankmasters.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.therankmasters.com/insights/seo-tools/best-cheap-seo-tools",
+          "domain": "therankmasters.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.merchynt.com/post/best-seo-software-for-small-business",
+          "domain": "merchynt.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/seo-tools-for-small-business",
+          "domain": "blog.hubspot.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://landingi.com/seo/best-tools/",
+          "domain": "landingi.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://seomator.com/blog/best-seo-tools-for-small-businesses",
+          "domain": "seomator.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.outrank.so/blog/best-seo-tools-for-small-businesses",
+          "domain": "outrank.so",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/best-seo-tools",
+          "domain": "guideflow.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-enterprise",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:33.215Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.conductor.com/academy/best-enterprise-seo-platforms/",
+          "domain": "conductor.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.gartner.com/reviews/market/enterprise-seo-platforms",
+          "domain": "gartner.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.therankmasters.com/insights/seo-tools/best-enterprise-seo-tools",
+          "domain": "therankmasters.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://trafficthinktank.com/best-enterprise-seo-tools/",
+          "domain": "trafficthinktank.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.marketresearchfuture.com/reports/enterprise-seo-platforms-market-41167",
+          "domain": "marketresearchfuture.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.stackmatix.com/blog/enterprise-ai-seo-platforms",
+          "domain": "stackmatix.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://fueler.io/blog/best-seo-tools-for-enterprise-marketing-teams",
+          "domain": "fueler.io",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.seoclarity.net/blog/best-seo-platforms",
+          "domain": "seoclarity.net",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.g2.com/categories/seo-tools/enterprise",
+          "domain": "g2.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/enterprise-seo-platform/",
+          "domain": "semrush.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-backlink-data",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:33.451Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://mojolinks.com/blog/backlink-checker-tools/",
+          "domain": "mojolinks.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.dashclicks.com/blog/backlink-checkers-compared-2026",
+          "domain": "dashclicks.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.webbytemplate.com/blog/best-backlink-checker-tools/",
+          "domain": "webbytemplate.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://orangemonke.com/blogs/backlink-checker-tools/",
+          "domain": "orangemonke.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://editorial.link/backlink-checker-tools/",
+          "domain": "editorial.link",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://linkindex.us/instruments/backlink-monitoring/",
+          "domain": "linkindex.us",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.designrush.com/agency/search-engine-optimization/trends/best-backlink-checkers",
+          "domain": "designrush.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wpbeginner.com/showcase/best-backlink-checker-tools-compared/",
+          "domain": "wpbeginner.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://chatseo.app/blog/ahrefs-vs-majestic",
+          "domain": "chatseo.app",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://chatseo.app/blog/ahrefs-vs-moz-pro",
+          "domain": "chatseo.app",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "seo-keyword-research",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:34.300Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.seo.com/tools/keyword-research/",
+          "domain": "seo.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://gizmodo.com/seo/best-tools/keyword-research",
+          "domain": "gizmodo.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://thecmo.com/tools/best-keyword-research-tools/",
+          "domain": "thecmo.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.marketermilk.com/blog/best-keyword-research-tools",
+          "domain": "marketermilk.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://trafficthinktank.com/best-keyword-research-tools/",
+          "domain": "trafficthinktank.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.rankability.com/blog/best-seo-keyword-research-tools/",
+          "domain": "rankability.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.webfx.com/blog/seo/keyword-research-tools/",
+          "domain": "webfx.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.techradar.com/best/keyword-research-tools",
+          "domain": "techradar.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://onelittleweb.com/top-tools/best-keyword-research-tools/",
+          "domain": "onelittleweb.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://zapier.com/blog/best-keyword-research-tool/",
+          "domain": "zapier.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "seo-api",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:36.427Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.seoptimer.com/blog/best-seo-api/",
+          "domain": "seoptimer.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wpbrigade.com/seo-apis/",
+          "domain": "wpbrigade.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://nextgrowth.ai/best-seo-api/",
+          "domain": "nextgrowth.ai",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.coherentmarketinsights.com/blog/marketing-and-advertising/best-seo-apis-se-ranking-semrush-dataforseo-moz-majestic-3799",
+          "domain": "coherentmarketinsights.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://stackademic.com/blog/guide-on-top-10-best-seo-apis-in-2026-what-you-need-to-know",
+          "domain": "stackademic.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://analytify.io/best-seo-api/",
+          "domain": "analytify.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.redmondpie.com/best-seo-api-in-2026-which-one-should-you-actually-use/",
+          "domain": "redmondpie.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.zdnet.com/article/best-seo-reporting-software/",
+          "domain": "zdnet.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://backlinko.com/best-seo-reporting-tools",
+          "domain": "backlinko.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://almcorp.com/blog/best-seo-data-api-2026-comparison/",
+          "domain": "almcorp.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-best-overall",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:35.685Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://ourcodeworld.com/articles/read/4950/best-ai-writing-tools-in-2026-8-picks-for-content-and-brand-teams",
+          "domain": "ourcodeworld.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-tools-for-content-marketing",
+          "domain": "eesel.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/ai-writing-tools-marketers",
+          "domain": "guideflow.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hootsuite.com/ai-content-creation-tools/",
+          "domain": "blog.hootsuite.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/ai-content-generators",
+          "domain": "blog.hubspot.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://elementor.com/blog/best-ai-content-generators/",
+          "domain": "elementor.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://explodingtopics.com/blog/ai-writing-tools",
+          "domain": "explodingtopics.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://searchatlas.com/blog/best-ai-content-writing-tools/",
+          "domain": "searchatlas.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://zapier.com/blog/best-ai-writing-generator/",
+          "domain": "zapier.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/best-ai-content-marketing-tools/",
+          "domain": "semrush.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-jasper-alternatives",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:40.009Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.g2.com/products/jasper-ai/competitors/alternatives",
+          "domain": "g2.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://fast.io/resources/jasper-ai-alternatives-2026/",
+          "domain": "fast.io",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.relato.com/blog/jasper-alternatives/",
+          "domain": "relato.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thecmo.com/tools/best-jasper-ai-alternatives/",
+          "domain": "thecmo.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.hyperwriteai.com/articles/jasper-ai-competitors",
+          "domain": "hyperwriteai.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.airops.com/blog/jasper-ai-alternatives",
+          "domain": "airops.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://okara.ai/blog/jasper-ai-alternatives",
+          "domain": "okara.ai",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.junia.ai/blog/jasper-ai-alternatives",
+          "domain": "junia.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/jasper-ai-alternatives",
+          "domain": "eesel.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://searchatlas.com/blog/jasper-ai-alternatives/",
+          "domain": "searchatlas.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-long-form",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:37.109Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://posteverywhere.ai/blog/30-best-ai-blog-writing-tools",
+          "domain": "posteverywhere.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://resources.rework.com/tools/ai-tools/best-ai-tools-for-bloggers-2026",
+          "domain": "resources.rework.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.ranktracker.com/blog/best-ai-writing-tools/",
+          "domain": "ranktracker.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/best-ai-tool-for-writing-blog-posts",
+          "domain": "eesel.ai",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.junia.ai/blog/long-form-ai-writing-tools",
+          "domain": "junia.ai",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-tools-for-content-marketing",
+          "domain": "eesel.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-blog-writing-tools",
+          "domain": "eesel.ai",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.hyperwriteai.com/articles/top-10-ai-writing-tools-for-bloggers",
+          "domain": "hyperwriteai.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://clickup.com/blog/ai-blog-writers/",
+          "domain": "clickup.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://rankmath.com/blog/best-ai-writing-tools/",
+          "domain": "rankmath.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-brand-voice",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:38.888Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://ourcodeworld.com/articles/read/4950/best-ai-writing-tools-in-2026-8-picks-for-content-and-brand-teams",
+          "domain": "ourcodeworld.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.velocity.li/blog/ai-writing-brand-voice-social-media-2026",
+          "domain": "velocity.li",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.guideflow.com/blog/ai-writing-tools-marketers",
+          "domain": "guideflow.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://memeburn.com/best-ai-writing-tools/",
+          "domain": "memeburn.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://wifitalents.com/best/ai-writing-software/",
+          "domain": "wifitalents.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.atomwriter.com/blog/chatgpt-alternatives-brand-voice-consistency/",
+          "domain": "atomwriter.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://gauravtiwari.org/ai-writing-tools/",
+          "domain": "gauravtiwari.org",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hubspot.com/marketing/ai-content-generators",
+          "domain": "blog.hubspot.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://viasocket.com/discovery/blog/wpcz0b/ai-writing-assistants/7-best-ai-writing-assistants-for-marketing",
+          "domain": "viasocket.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hootsuite.com/ai-copywriting/",
+          "domain": "blog.hootsuite.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-detection",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:39.409Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://aiseo.ai/blog/best-ai-writing-tools",
+          "domain": "aiseo.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://phrasly.ai/",
+          "domain": "phrasly.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ryne.ai/blog/best-ai-writing-tools-that-pass-ai-detection",
+          "domain": "ryne.ai",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.unite.ai/best-ai-writing-tools/",
+          "domain": "unite.ai",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.link-assistant.com/news/ai-content-tools-for-seo-tested.html",
+          "domain": "link-assistant.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.adobe.com/acrobat/resources/how-to-avoid-ai-detection.html",
+          "domain": "adobe.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://aiseo.ai/blog/best-tools-for-humanizing-ai-content",
+          "domain": "aiseo.ai",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://storychief.io/blog/best-ai-humanizers",
+          "domain": "storychief.io",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://ryne.ai/blog/best-ai-humanizers-top-tools-to-humanize-ai-content",
+          "domain": "ryne.ai",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://originality.ai/blog/make-ai-writing-undetectable",
+          "domain": "originality.ai",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-teams",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:39.887Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://easycontent.io/resources/best-ai-content-tools-with-a-human-review-process/",
+          "domain": "easycontent.io",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://storychief.io/blog/best-team-collaboration-tools",
+          "domain": "storychief.io",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hootsuite.com/ai-content-creation-tools/",
+          "domain": "blog.hootsuite.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/website/ai-writing-generator",
+          "domain": "blog.hubspot.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://viasocket.com/discovery/blog/wpcz0b/7-best-ai-writing-assistants-for-marketing",
+          "domain": "viasocket.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://storychief.io/blog/best-enterprise-ready-editorial-workflow-tools-iRsAQ0NzmNjNSH",
+          "domain": "storychief.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.designrush.com/agency/content-marketing/trends/ai-copywriting-tools",
+          "domain": "designrush.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/automated-content-workflow-platform",
+          "domain": "trysight.ai",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hootsuite.com/ai-copywriting/",
+          "domain": "blog.hootsuite.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://planable.io/blog/content-writing-tools/",
+          "domain": "planable.io",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-seo-integrated",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:43.023Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.rankability.com/blog/best-seo-content-optimization-tools/",
+          "domain": "rankability.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/ai-writing-tools-marketers",
+          "domain": "guideflow.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.ranktracker.com/blog/best-ai-writing-tools/",
+          "domain": "ranktracker.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.w3era.com/blog/seo/ai-seo-complete-guide/",
+          "domain": "w3era.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.conductor.com/academy/best-ai-writing-tools/",
+          "domain": "conductor.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.w3era.com/blog/seo/best-ai-writing-tools-for-seo/",
+          "domain": "w3era.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/best-ai-tools-for-writing-seo-rich-blog-content",
+          "domain": "eesel.ai",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-writing-tool-with-seo-features",
+          "domain": "trysight.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wellows.com/blog/best-ai-content-optimization-tools/",
+          "domain": "wellows.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.searchlogistics.com/learn/seo/ai-seo-tools/",
+          "domain": "searchlogistics.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-cheapest",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:42.023Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.trysight.ai/blog/affordable-ai-content-tools",
+          "domain": "trysight.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://checkthat.ai/answers/what-are-the-best-ai-writing-assistants",
+          "domain": "checkthat.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://neuralmindmastery.com/learn/ai-blog-writing-tools-2026/",
+          "domain": "neuralmindmastery.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://thestacc.com/blog/ai-writing-tools-pricing/",
+          "domain": "thestacc.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dupple.com/learn/best-ai-blog-writers",
+          "domain": "dupple.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/ai-writing-tools-marketers",
+          "domain": "guideflow.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://fitsmallbusiness.com/best-ai-content-writer/",
+          "domain": "fitsmallbusiness.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-writing-tools-comparison",
+          "domain": "eesel.ai",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://toolradar.com/blog/best-ai-writing-tools",
+          "domain": "toolradar.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thestacc.com/blog/ai-marketing-tools-budget/",
+          "domain": "thestacc.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-vs-chatgpt",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:42.740Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-ai-writing-tools/",
+          "domain": "forbes.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.flozic.ai/blog/best-ai-writing-tools",
+          "domain": "flozic.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://toolradar.com/blog/best-ai-writing-tools",
+          "domain": "toolradar.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://distribb.io/blog/ai-writing-tool",
+          "domain": "distribb.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://viasocket.com/discovery/blog/tev0i3/ai-writing-assistants/9-powerful-ai-writing-assistants-beyond-chatgpt",
+          "domain": "viasocket.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.riverfronttimes.com/best-ai-writing-tools/",
+          "domain": "riverfronttimes.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://resources.rework.com/tools/ai-tools/best-ai-writing-tools-2026",
+          "domain": "resources.rework.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://ourcodeworld.com/articles/read/4950/best-ai-writing-tools-in-2026-8-picks-for-content-and-brand-teams",
+          "domain": "ourcodeworld.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://buffer.com/resources/ai-writing-tools/",
+          "domain": "buffer.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-tool-in-writing",
+          "domain": "eesel.ai",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-ecommerce-copy",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:42.594Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://dupple.com/learn/best-ai-product-description-writers",
+          "domain": "dupple.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/best-ai-for-ecommerce-content",
+          "domain": "eesel.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.adnabu.com/free-tools/best-product-description-generator/",
+          "domain": "blog.adnabu.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.ayautomate.com/blog/best-ai-tools-for-ecommerce",
+          "domain": "ayautomate.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://vegavid.com/blog/ai-product-description-generators-for-ecommerce-copy",
+          "domain": "vegavid.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://describely.ai/blog/best-ai-product-description-generator-in-2026-compared-for-ecommerce-teams",
+          "domain": "describely.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://simplified.com/blog/ai-writing/best-ai-product-description-generators",
+          "domain": "simplified.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.hypotenuse.ai/blog/best-ai-tools-for-product-descriptions",
+          "domain": "hypotenuse.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-content-tools-for-ecommerce",
+          "domain": "trysight.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.printful.com/blog/ai-tools-for-writing-product-descriptions",
+          "domain": "printful.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-multilingual",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:46.319Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.qwe.edu.pl/tutorial/best-ai-tools-multilingual-content-creation/",
+          "domain": "qwe.edu.pl",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ourcodeworld.com/articles/read/4950/best-ai-writing-tools-in-2026-8-picks-for-content-and-brand-teams",
+          "domain": "ourcodeworld.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://toolkitcreators.com/guides/ai-translation-tools",
+          "domain": "toolkitcreators.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://aiseo.ai/blog/best-ai-writing-tools",
+          "domain": "aiseo.ai",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://jenni.ai/blog/multilingual-ai-writers",
+          "domain": "jenni.ai",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.smartling.com/questions/ai-writing-tools-multilingual-content",
+          "domain": "smartling.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/best-ai-writing-tools-2026-edubrain-ai-eg2ve",
+          "domain": "linkedin.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://thewearify.com/ai-platforms-multi-language-support-for-agencies/",
+          "domain": "thewearify.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eweek.com/artificial-intelligence/ai-writing-tools/",
+          "domain": "eweek.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.digitalocean.com/resources/articles/ai-writing-tools",
+          "domain": "digitalocean.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-editing",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:44.934Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://resources.rework.com/tools/ai-tools/best-ai-tools-for-content-writers-2026",
+          "domain": "resources.rework.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/best-ai-writing-assistants",
+          "domain": "guideflow.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://supademo.com/blog/ai-copywriting-tools",
+          "domain": "supademo.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://clickup.com/blog/ai-copywriting-tools/",
+          "domain": "clickup.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.wordstream.com/blog/ai-copywriting-tools",
+          "domain": "wordstream.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://blog.hootsuite.com/ai-copywriting/",
+          "domain": "blog.hootsuite.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://alexbirkett.com/ai-copywriting/",
+          "domain": "alexbirkett.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://resources.rework.com/libraries/ai-productivity-tools/ai-copy-editing-and-proofreading",
+          "domain": "resources.rework.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://buffer.com/resources/ai-writing-tools/",
+          "domain": "buffer.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/blog/ai-copywriting-tools",
+          "domain": "shopify.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "write-agencies",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:45.515Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://ustechautomations.com/resources/blog/best-ai-writing-tools-for-agencies-2026",
+          "domain": "ustechautomations.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ustechautomations.com/resources/blog/best-ai-writing-tool-for-agencies-2026",
+          "domain": "ustechautomations.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.trysight.ai/blog/best-ai-writing-tools-for-agencies",
+          "domain": "trysight.ai",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.riverfronttimes.com/best-ai-writing-tools/",
+          "domain": "riverfronttimes.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.eesel.ai/blog/best-ai-writing-tools-for-digital-agencies",
+          "domain": "eesel.ai",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-content-software-for-agencies",
+          "domain": "trysight.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.eesel.ai/blog/best-ai-tools-for-content-agencies",
+          "domain": "eesel.ai",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-content-marketing-platform-for-agencies",
+          "domain": "trysight.ai",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.trysight.ai/blog/ai-content-generation-software-for-agencies",
+          "domain": "trysight.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://resources.rework.com/tools/ai-agents/best-ai-agents-for-content-marketing-2026",
+          "domain": "resources.rework.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-technical",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:45.533Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.stackexpertise.com/ai-tools/best-ai-tools-for-technical-documentation-2026",
+          "domain": "stackexpertise.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pecollective.com/tools/best-ai-writing-tools/",
+          "domain": "pecollective.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wonderchat.io/blog/top-ai-tools-technical-writing",
+          "domain": "wonderchat.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://clickup.com/blog/ai-tools-for-technical-writing/",
+          "domain": "clickup.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dupple.com/learn/best-ai-documentation-generators",
+          "domain": "dupple.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.secondtalent.com/resources/free-ai-tools-for-technical-writing-and-api-docs/",
+          "domain": "secondtalent.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.gitbook.com/blog/best-ai-documentation-tools",
+          "domain": "gitbook.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://arvow.com/blog/best-ai-for-technical-writing",
+          "domain": "arvow.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.eesel.ai/blog/ai-tools-for-technical-writers",
+          "domain": "eesel.ai",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.thedailystar.net/news/tech-startup/news/how-choose-the-right-ai-the-right-task-4198506",
+          "domain": "thedailystar.net",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "write-social",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:48.392Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://posteverywhere.ai/blog/best-ai-writing-tools-for-social-media",
+          "domain": "posteverywhere.ai",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://posteverywhere.ai/blog/21-best-ai-tools-for-linkedin",
+          "domain": "posteverywhere.ai",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/20-best-ai-tools-social-media-2026-review-comparison-pros-cons-p71jf",
+          "domain": "linkedin.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.analyticsinsight.net/artificial-intelligence/best-ai-tools-for-social-media-content-creation-and-scheduling-in-2026",
+          "domain": "analyticsinsight.net",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://buffer.com/resources/ai-writing-tools/",
+          "domain": "buffer.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.unite.ai/copy-ai-review/",
+          "domain": "unite.ai",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://socialbu.com/blog/write-linkedin-posts",
+          "domain": "socialbu.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.hostinger.com/tutorials/ai-tools-for-social-media/",
+          "domain": "hostinger.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.semrush.com/blog/ai-content-generators/",
+          "domain": "semrush.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://piktochart.com/blog/ai-tools-social-media-content-creation/",
+          "domain": "piktochart.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-best-overall",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:48.121Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-platforms",
+          "domain": "prismic.io",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dupple.com/learn/best-headless-cms",
+          "domain": "dupple.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cosmicjs.com/blog/best-headless-cms-2026",
+          "domain": "cosmicjs.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-cms-tools",
+          "domain": "guideflow.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-headless-cms",
+          "domain": "learn.g2.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-for-performance-and-scalability",
+          "domain": "prismic.io",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://kontent.ai/blog/best-headless-cms-complete-buyers-guide/",
+          "domain": "kontent.ai",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.europeanbusinessreview.com/best-enterprise-headless-cms-comparisons-2026/",
+          "domain": "europeanbusinessreview.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.brightspot.com/cms-architecture/headless-cms/compare-best-headless-cms-platforms",
+          "domain": "brightspot.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://kontent.ai/blog/best-headless-cms-for-content-managers-and-marketing-teams/",
+          "domain": "kontent.ai",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-enterprise",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:48.086Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.europeanbusinessreview.com/best-enterprise-headless-cms-comparisons-2026/",
+          "domain": "europeanbusinessreview.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://kontent.ai/blog/best-headless-cms-complete-buyers-guide/",
+          "domain": "kontent.ai",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-enterprise",
+          "domain": "prismic.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/website/headless-cms-comparison",
+          "domain": "blog.hubspot.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.webstacks.com/blog/best-headless-cms",
+          "domain": "webstacks.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.storyblok.com/mp/the-best-headless-cms-for-enterprise",
+          "domain": "storyblok.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/website/headless-cms",
+          "domain": "blog.hubspot.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://agilitycms.com/blog/best-enterprise-headless-cms-platforms",
+          "domain": "agilitycms.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-headless-cms",
+          "domain": "learn.g2.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.brightspot.com/cms-architecture/headless-cms/compare-best-headless-cms-platforms",
+          "domain": "brightspot.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-for-nextjs",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:48.890Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.cosmicjs.com/blog/best-headless-cms-2026",
+          "domain": "cosmicjs.com",
+          "position": 1,
+          "inAnswer": false
+        },
+        {
+          "url": "https://focusreactive.com/nextjs-cms/",
+          "domain": "focusreactive.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://naturaily.com/blog/next-js-cms",
+          "domain": "naturaily.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-react-headless-cms",
+          "domain": "prismic.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/best-cms-nextjs",
+          "domain": "pantheon.io",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://prismic.io/blog/best-nextjs-headless-cms-platforms",
+          "domain": "prismic.io",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-cms-tools",
+          "domain": "guideflow.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://vercel.com/i/how-to-choose-headless-cms",
+          "domain": "vercel.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.luckymedia.dev/guides/best-headless-cms-for-nextjs",
+          "domain": "luckymedia.dev",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cosmicjs.com/best-headless-cms-react-nextjs",
+          "domain": "cosmicjs.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-contentful-alternatives",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:52.117Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.g2.com/products/contentful/competitors/alternatives",
+          "domain": "g2.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pagepro.co/blog/top-headless-cms-alternatives-to-contentful/",
+          "domain": "pagepro.co",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://openalternative.co/alternatives/contentful",
+          "domain": "openalternative.co",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://typeflo.io/blog/contentful-alternatives",
+          "domain": "typeflo.io",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.thebcms.com/blog/contentful-alternatives-comparison-top-platforms/",
+          "domain": "thebcms.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.coredna.com/blogs/6-contentful-alternatives",
+          "domain": "coredna.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.magier.com/blog/contentful-alternatives",
+          "domain": "magier.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sengo.com/resources/news/insights/contentful-alternatives-enterprise/",
+          "domain": "sengo.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.flowninja.com/blog/contentful-alternatives",
+          "domain": "flowninja.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.blott.com/blog/post/contentful-alternatives",
+          "domain": "blott.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-pricing",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:50.863Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://gitnation.com/contents/top-headless-cms-agencies-and-development-companies-in-2026",
+          "domain": "gitnation.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.vezadigital.com/post/headless-cms-vs-traditional-cms",
+          "domain": "vezadigital.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ztabs.co/cost/headless-cms",
+          "domain": "ztabs.co",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.lyntonweb.com/library/headless-cms-comparison",
+          "domain": "lyntonweb.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.multidots.com/blog/headless-cms-development/",
+          "domain": "multidots.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://bitsorchestra.com/idea/headless-cms-for-business",
+          "domain": "bitsorchestra.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://attractgroup.com/blog/headless-cms-development-services/",
+          "domain": "attractgroup.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.coremedia.com/blog/the-true-cost-of-implementing-a-headless-cms-vs-monolithic-cms",
+          "domain": "coremedia.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.rwit.io/blog/headless-cms-website-cost-2026",
+          "domain": "rwit.io",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.abbacustechnologies.com/headless-cms-development-what-it-costs-in-2025/",
+          "domain": "abbacustechnologies.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-open-source",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:51.516Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://hashmeta.com/blog/the-15-best-headless-cms-platforms-compared/",
+          "domain": "hashmeta.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-cms-tools",
+          "domain": "guideflow.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://focusreactive.com/blog/compare-open-source-cms-in-2026/",
+          "domain": "focusreactive.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cosmicjs.com/blog/best-headless-cms-2026",
+          "domain": "cosmicjs.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://directus.com/resources/best-headless-cms-in-2026",
+          "domain": "directus.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/best-cms",
+          "domain": "pantheon.io",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://strapi.io/blog/open-source-cms-platforms",
+          "domain": "strapi.io",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://kontent.ai/blog/best-headless-cms-complete-buyers-guide/",
+          "domain": "kontent.ai",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.webstacks.com/blog/best-headless-cms",
+          "domain": "webstacks.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.netsolutions.com/insights/best-headless-cms/",
+          "domain": "netsolutions.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-for-ecommerce",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:53.419Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.bigcommerce.com/articles/headless-commerce/",
+          "domain": "bigcommerce.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.edesk.com/blog/headless-ecommerce-solutions/",
+          "domain": "edesk.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-ecommerce-headless-cms",
+          "domain": "prismic.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://vendure.io/blog/top-5-headless-cms-for-ecommerce-in-2025-complete-guide",
+          "domain": "vendure.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://strapi.io/blog/headless-commerce-guide",
+          "domain": "strapi.io",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://strapi.io/blog/headless-commerce-platforms",
+          "domain": "strapi.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wix.com/blog/best-headless-cms",
+          "domain": "wix.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://crystallize.com/blog/best-cms-for-headless-ecommerce",
+          "domain": "crystallize.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/commerce-architecture",
+          "domain": "pantheon.io",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/au/enterprise/blog/headless-cms",
+          "domain": "shopify.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-localisation",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:54.238Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://learn.g2.com/best-headless-cms",
+          "domain": "learn.g2.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://focusreactive.com/blog/compare-open-source-cms-in-2026/",
+          "domain": "focusreactive.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://localess.org/blog/2026/05/top-5-open-source-headless-cms-platforms-global-teams/",
+          "domain": "localess.org",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://rubric.com/en-us/best-cms-for-localization/",
+          "domain": "rubric.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://hygraph.com/blog/best-cms-for-localization",
+          "domain": "hygraph.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://qabiria.com/asset/easily-translatable-cms-platforms.pdf",
+          "domain": "qabiria.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://developer.tenten.co/top-10-headless-cms-platforms-for-multi-language-support-in-2025-1",
+          "domain": "developer.tenten.co",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://branch8.com/posts/headless-cms-options-apac-multilingual-ecommerce-buyer-guide",
+          "domain": "branch8.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://innowise.com/blog/best-headless-cms/",
+          "domain": "innowise.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.dotcms.com/blog/the-best-headless-cms-for-translations-multiple-locales-and-languages",
+          "domain": "dotcms.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-editor-experience",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:54.238Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://dupple.com/learn/best-headless-cms",
+          "domain": "dupple.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-free-headless-cms",
+          "domain": "prismic.io",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.luckymedia.dev/insights/headless-cms",
+          "domain": "luckymedia.dev",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.storyblok.com/mp/the-best-headless-cms-for-enterprise",
+          "domain": "storyblok.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cosmicjs.com/blog/best-headless-cms-2026",
+          "domain": "cosmicjs.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://hashmeta.com/blog/the-15-best-headless-cms-platforms-compared/",
+          "domain": "hashmeta.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/best-cms-nextjs",
+          "domain": "pantheon.io",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-with-visual-editing",
+          "domain": "prismic.io",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-cms-tools",
+          "domain": "guideflow.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/best-cms",
+          "domain": "pantheon.io",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-migration",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:59.500Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://strapi.io/blog/how-to-migrate-from-traditional-to-headless-cms",
+          "domain": "strapi.io",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://strapi.io/blog/headless-cms-for-business-best-practices-and-expert-tips",
+          "domain": "strapi.io",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://moldstud.com/articles/p-seamless-migration-guide-moving-from-traditional-cms-to-headless-cms-in-a-jamstack-environment",
+          "domain": "moldstud.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.netguru.com/blog/headless-cms-pros-and-cons",
+          "domain": "netguru.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cogniteq.com/blog/why-you-should-migrate-traditional-cms-headless-cms",
+          "domain": "cogniteq.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.findarticles.com/a-practical-guide-to-migrating-from-traditional-cms-to-headless-architecture/",
+          "domain": "findarticles.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/headless-cms-vs-traditional-cms",
+          "domain": "prismic.io",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.cogniteq.com/blog/why-you-should-migrate-traditional-cms-headless-cms-2025",
+          "domain": "cogniteq.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://kontent.ai/blog/migrating-content-from-a-monolith-cms-to-a-headless-cms/",
+          "domain": "kontent.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://bobcares.com/blog/how-to-migrate-from-traditional-cms-to-headless-cms/",
+          "domain": "bobcares.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-visual-editing",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:57.043Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.contentstack.com/blog/all-about-headless/headless-cms-platforms-with-the-best-visual-editor-tools-for-marketers",
+          "domain": "contentstack.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.dotcms.com/blog/top-5-visual-headless-cms-editors",
+          "domain": "dotcms.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.webstacks.com/blog/headless-cms-content-editor-experience-platform-comparison",
+          "domain": "webstacks.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.luckymedia.dev/blog/a-strategic-comparison-of-headless-cms-options",
+          "domain": "luckymedia.dev",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-enterprise",
+          "domain": "prismic.io",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://unlayer.com/blog/visual-editing-headless-cms",
+          "domain": "unlayer.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.brightspot.com/cms-architecture/headless-cms/headless-cms-pros-and-cons",
+          "domain": "brightspot.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-with-visual-editing",
+          "domain": "prismic.io",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-headless-cms",
+          "domain": "learn.g2.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.smashingmagazine.com/2023/06/visual-editing-headless-cms/",
+          "domain": "smashingmagazine.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-small-team",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:56.905Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://hygraph.com/blog/best-headless-cms",
+          "domain": "hygraph.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dupple.com/learn/best-headless-cms",
+          "domain": "dupple.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-for-startups",
+          "domain": "prismic.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.hubspot.com/website/headless-cms-comparison",
+          "domain": "blog.hubspot.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-cms-tools",
+          "domain": "guideflow.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.bacancytechnology.com/insights/headless-cms-platforms",
+          "domain": "bacancytechnology.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.cosmicjs.com/blog/best-headless-cms-2026",
+          "domain": "cosmicjs.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.webstacks.com/blog/best-headless-cms",
+          "domain": "webstacks.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://kontent.ai/blog/best-headless-cms-complete-buyers-guide/",
+          "domain": "kontent.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-headless-cms-platforms",
+          "domain": "prismic.io",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "cms-compliance",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:29:58.218Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.coremedia.com/blog/the-7-best-cms-platforms-for-enterprises",
+          "domain": "coremedia.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://euvetted.com/category/headless-cms",
+          "domain": "euvetted.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sota.io/blog/sanity-eu-alternative-gdpr-cloud-act-headless-cms-2026",
+          "domain": "sota.io",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sota.io/blog/prismic-eu-alternative-gdpr-cloud-act-headless-cms-2026",
+          "domain": "sota.io",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://dev.to/dumebii/top-5-headless-cms-to-build-a-blog-in-2026-382f",
+          "domain": "dev.to",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sota.io/blog/builder-io-eu-alternative-gdpr-cloud-act-visual-cms-2026",
+          "domain": "sota.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.coremedia.com/blog/european-cms-alternatives-for-enterprises-and-public-institutions-moving-beyond-legacy-us-vendors",
+          "domain": "coremedia.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.storyblok.com/mp/the-best-headless-cms-for-enterprise",
+          "domain": "storyblok.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://sota.io/blog/storyblok-eu-alternative-gdpr-cloud-act-headless-cms-2026",
+          "domain": "sota.io",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://profiletree.com/top-content-management-systems-cms-for-marketers/",
+          "domain": "profiletree.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-composable",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:00.597Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.linkedin.com/pulse/enterprise-digital-experience-platforms-architect-assessment-ks-qzshf",
+          "domain": "linkedin.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.brightspot.com/cms-resources/cms-selection-guide/best-composable-cms-platforms",
+          "domain": "brightspot.com",
+          "position": 2,
+          "inAnswer": false
+        },
+        {
+          "url": "https://sengo.com/resources/news/article/composable-architecture-implementation/",
+          "domain": "sengo.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://sengo.com/resources/news/guides/composable-architecture-implementation/",
+          "domain": "sengo.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.thebcms.com/blog/mach-cms/",
+          "domain": "thebcms.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://hygraph.com/resources/making-a-move-to-a-mach-architecture",
+          "domain": "hygraph.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://hygraph.com/blog/composable-cms",
+          "domain": "hygraph.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.contentful.com/composable-content/architecture/",
+          "domain": "contentful.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.valtech.com/blog/5-things-to-consider-before-committing-to-composable-architectures/",
+          "domain": "valtech.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://cloudinary-marketing-res.cloudinary.com/image/upload/v1673462145/MACH_eBook_final.pdf",
+          "domain": "cloudinary-marketing-res.cloudinary.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "cms-vs-monolith",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:01.381Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://elementor.com/blog/headless-cms/",
+          "domain": "elementor.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://web.michaelbell.co.uk/blog/wordpress-vs-headless-cms",
+          "domain": "web.michaelbell.co.uk",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://keplaris.com/blogs/wordpress-vs-headless-cms",
+          "domain": "keplaris.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://pantheon.io/learning-center/headless/cms-vs-wordpress",
+          "domain": "pantheon.io",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.levion.io/blog/headless-cms-vs-wordpress",
+          "domain": "levion.io",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.progressiverobot.com/2026/08/13/wordpress-vs-headless-cms-b2b/",
+          "domain": "progressiverobot.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.thoughtmedia.com/podcast/70-headless-cms-vs-traditional-wordpress-whats-better-in-2026/",
+          "domain": "thoughtmedia.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.cosmicjs.com/blog/headless-cms-vs-wordpress-which-one-should-you-use-in-2026",
+          "domain": "cosmicjs.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://getdevdone.com/blog/common-myths-about-traditional-wordpress-vs-headless-wordpress-debunked.html",
+          "domain": "getdevdone.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.hostinger.com/tutorials/headless-cms-vs-traditional-cms/",
+          "domain": "hostinger.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-best-overall",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:01.156Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.hostinger.com/tutorials/best-ecommerce-platforms/",
+          "domain": "hostinger.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-ecommerce-platforms",
+          "domain": "learn.g2.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/blog/best-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.omnisend.com/blog/best-ecommerce-platform/",
+          "domain": "omnisend.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.techradar.com/news/the-best-ecommerce-platform",
+          "domain": "techradar.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wix.com/blog/best-ecommerce-platforms",
+          "domain": "wix.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/blog/ecommerce-software",
+          "domain": "shopify.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.forbes.com/advisor/uk/business/software/best-ecommerce-platform/",
+          "domain": "forbes.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/blog/best-ecommerce-platform-small-business",
+          "domain": "shopify.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/ecommerce/ecommerce-platforms/",
+          "domain": "bigcommerce.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-enterprise",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:03.961Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.shopify.com/enterprise/blog/b2b-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/top-enterprise-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/best-ecommerce-platforms",
+          "domain": "learn.g2.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/enterprise-ecommerce-platform-comparison/",
+          "domain": "elogic.co",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netsolutions.com/insights/enterprise-ecommerce-platforms/",
+          "domain": "netsolutions.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.forbes.com/advisor/business/software/best-enterprise-ecommerce-platforms/",
+          "domain": "forbes.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://woocommerce.com/posts/enterprise-ecommerce-platforms/",
+          "domain": "woocommerce.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/blog/retail-ecommerce-platform",
+          "domain": "shopify.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/enterprise-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.techrepublic.com/article/best-ecommerce-platforms/",
+          "domain": "techrepublic.com",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-headless",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:03.526Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.bigblue.co/blog/best-headless-commerce-platforms?[object%20Object]",
+          "domain": "bigblue.co",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.elasticpath.com/blog/headless-commerce-platforms",
+          "domain": "elasticpath.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://yournextstore.com/blog/best-headless-commerce-platforms",
+          "domain": "yournextstore.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://theretailexec.com/tools/best-headless-ecommerce-platforms/",
+          "domain": "theretailexec.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.netsolutions.com/insights/headless-commerce-platforms/",
+          "domain": "netsolutions.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://vendure.io/blog/best-headless-commerce-platforms",
+          "domain": "vendure.io",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/headless-ecommerce-platform",
+          "domain": "guideflow.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://litextension.com/blog/headless-ecommerce-platform/",
+          "domain": "litextension.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/headless-ecommerce-platforms/",
+          "domain": "elogic.co",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://prismic.io/blog/best-ecommerce-headless-cms",
+          "domain": "prismic.io",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-shopify-alternatives",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:06.145Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://elogic.co/blog/shopify-alternatives-explore-shopify-competitors-in-2025/",
+          "domain": "elogic.co",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.swell.is/content/shopify-plus-alternatives",
+          "domain": "swell.is",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://printify.com/blog/shopify-alternatives/",
+          "domain": "printify.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.g2.com/products/shopify-plus/competitors/alternatives",
+          "domain": "g2.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://resources.rework.com/tools/productivity/best-shopify-alternatives",
+          "domain": "resources.rework.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.charleagency.com/articles/shopify-vs-other-ecommerce-platforms/",
+          "domain": "charleagency.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://scandiweb.com/blog/shopify-alternatives-buyers-guide/",
+          "domain": "scandiweb.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.tidio.com/blog/shopify-alternatives/",
+          "domain": "tidio.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.printful.com/blog/shopify-plus-alternatives",
+          "domain": "printful.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://elementor.com/blog/shopify-alternatives/",
+          "domain": "elementor.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-b2b",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:04.793Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.guideflow.com/blog/b2b-ecommerce-platforms",
+          "domain": "guideflow.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/b2b-ecommerce/b2b-ecommerce-platforms/",
+          "domain": "bigcommerce.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wizcommerce.com/blog/best-b2b-ecommerce-platforms/",
+          "domain": "wizcommerce.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/ae/enterprise/blog/b2b-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.atwix.com/wholesale-industry/best-ecommerce-platform-for-wholesale/",
+          "domain": "atwix.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.capterra.com/resources/best-b2b-ecommerce-software-reviews-analysis/",
+          "domain": "capterra.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/wholesale-software",
+          "domain": "shopify.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/b2b-ecommerce-platform-how-to-choose-the-best-solution-for-manufacturers-and-wholesalers/",
+          "domain": "elogic.co",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://wise.com/us/blog/best-wholesale-ecommerce-platform",
+          "domain": "wise.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.clickpost.ai/blog/wholesale-and-b2b-ecommerce-tools",
+          "domain": "clickpost.ai",
+          "position": 10,
+          "inAnswer": true
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-replatform",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:09.085Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.salesforce.com/ap/commerce/replatforming-guide/?bc=OTH",
+          "domain": "salesforce.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/ecommerce-replatforming-guide",
+          "domain": "shopify.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.salesforce.com/commerce/replatforming-guide/?bc=OTH",
+          "domain": "salesforce.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://elogic.co/blog/10-signs-you-need-ecommerce-replatforming-now/",
+          "domain": "elogic.co",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/ecommerce/ecommerce-migration/",
+          "domain": "bigcommerce.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://blog.miva.com/6-steps-replatforming",
+          "domain": "blog.miva.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://oroinc.com/b2b-ecommerce/blog/replatforming-a-website-part-1-a-primer-on-ecommerce-migration/",
+          "domain": "oroinc.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netguru.com/blog/ecommerce-replatforming",
+          "domain": "netguru.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netsolutions.com/hub/ecommerce/replatforming/",
+          "domain": "netsolutions.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.quantummetric.com/blog/ecommerce-replatforming",
+          "domain": "quantummetric.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-magento-migration",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:08.487Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.atwix.com/ecommerce/ecommerce-platform-types/",
+          "domain": "atwix.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopware.com/en/news/magento-alternative/",
+          "domain": "shopware.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netguru.com/blog/magento-marketplace-migration",
+          "domain": "netguru.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/when-elogic-is-the-safer-path/",
+          "domain": "elogic.co",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netsolutions.com/insights/magento-adobe-commerce-benefits/",
+          "domain": "netsolutions.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.adobe.com/content/dam/dx/us/en/resources/ebooks/the-truth-about-total-cost-of-ownership/1952261-the-truth-about-total-cost-of-ownership-ebook.pdf",
+          "domain": "adobe.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.bigcommerce.com/blog/magento-alternatives/",
+          "domain": "bigcommerce.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.netsolutions.com/insights/ultimate-guide-to-magento/",
+          "domain": "netsolutions.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://domaineworldwide.com/eu/insights/technology/magento-adobe-commerce-or-shopify/",
+          "domain": "domaineworldwide.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://business.adobe.com/resources/migrating-to-adobe-commerce-2.html",
+          "domain": "business.adobe.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-cost",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:10.173Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.clarity-ventures.com/ecommerce/enterprise-ecommerce-solutions-guide",
+          "domain": "clarity-ventures.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.elasticpath.com/blog/best-enterprise-ecommerce-platforms",
+          "domain": "elasticpath.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/enterprise-ecommerce-platform-comparison/",
+          "domain": "elogic.co",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://virtocommerce.com/blog/enterprise-ecommerce-platforms",
+          "domain": "virtocommerce.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.digitalapplied.com/blog/ecommerce-platform-comparison-2026-complete-matrix",
+          "domain": "digitalapplied.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/ecommerce/enterprise-ecommerce-platforms/",
+          "domain": "bigcommerce.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/b2b-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/ecommerce-platform-comparison",
+          "domain": "shopify.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://virtocommerce.com/assets-download/files/total-cost-of-ownership-TCO-virto-commerce.pdf",
+          "domain": "virtocommerce.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/ecommerce/ecommerce-cost/",
+          "domain": "bigcommerce.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-composable",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:10.669Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.liquidwebdevelopers.com/blog/composable-commerce-vs-all-in-one-what-the-hype-misses/",
+          "domain": "liquidwebdevelopers.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.elsner.com/composable-commerce-guide/",
+          "domain": "elsner.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://yournextstore.com/blog/composable-commerce",
+          "domain": "yournextstore.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.retailtouchpoints.com/topics/digital-commerce/5-replatforming-myths-that-brands-need-to-know",
+          "domain": "retailtouchpoints.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.elasticpath.com/composable-commerce",
+          "domain": "elasticpath.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://composable.com/insights/build-vs-buy-comparing-an-in-house-solution-to-a-composable-tech-stack",
+          "domain": "composable.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.linkedin.com/posts/aviva-solutions_the-difference-between-all-in-one-and-composable-activity-7424376149021069312-OpfR",
+          "domain": "linkedin.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://composable.com/headless-commerce-vs-composable-commerce",
+          "domain": "composable.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/composable-commerce-platform",
+          "domain": "shopify.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://learn.g2.com/composable-commerce",
+          "domain": "learn.g2.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-eu",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:12.115Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.hostinger.com/tutorials/best-ecommerce-platforms/",
+          "domain": "hostinger.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.gonini.com/resources/top-online-marketplaces-in-europe",
+          "domain": "gonini.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://searchlab.nl/en/compare/best-ecommerce-platforms",
+          "domain": "searchlab.nl",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.channable.com/blog/cross-border-ecommerce",
+          "domain": "channable.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecommerceparadise.com/best-ecommerce-platform-for-international-selling-in-2026-top-6-for-global-expansion/",
+          "domain": "ecommerceparadise.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://resources.rework.com/tools/commerce/best-ecommerce-platforms-2026",
+          "domain": "resources.rework.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://europeanstack.com/best/best-eu-ecommerce-platforms",
+          "domain": "europeanstack.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecommercenews.eu/online-marketplaces/",
+          "domain": "ecommercenews.eu",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://ecommercenews.eu/software/",
+          "domain": "ecommercenews.eu",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.scayle.com/library/blog/best-online-marketplaces/",
+          "domain": "scayle.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-marketplace",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:12.815Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://theretailexec.com/tools/best-multi-vendor-ecommerce-platforms/",
+          "domain": "theretailexec.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://litextension.com/blog/multi-vendor-ecommerce-platform/",
+          "domain": "litextension.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.storehippo.com/blog/7-best-multi-vendor-marketplace-platforms",
+          "domain": "storehippo.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/au/blog/multi-vendor-ecommerce-platform",
+          "domain": "shopify.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.cs-cart.com/blog/best-multi-vendor-marketplace-platform-softwares/",
+          "domain": "cs-cart.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/au/blog/multi-vendor-marketplace",
+          "domain": "shopify.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://dokan.co/blog/488405/multi-vendor-marketplace-platforms/",
+          "domain": "dokan.co",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.opencart.com/blog/top-12-open-source-multi-vendor-ecommerce-platforms",
+          "domain": "opencart.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.algolia.com/blog/ecommerce/what-is-a-multi-vendor-marketplace-and-how-to-build-one",
+          "domain": "algolia.com",
+          "position": 9,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-subscriptions",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:13.179Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.subbly.co/blog/best-subscription-ecommerce-platforms/",
+          "domain": "subbly.co",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.guideflow.com/blog/subscription-ecommerce-platforms",
+          "domain": "guideflow.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://viasocket.com/discovery/blog/9sn18m/top-ecommerce-platforms-for-subscription-success",
+          "domain": "viasocket.com",
+          "position": 3,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.expertmarket.com/uk/website-builders/best-subscription-ecommerce-platform",
+          "domain": "expertmarket.com",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.swell.is/content/best-ecommerce-platforms",
+          "domain": "swell.is",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/blog/subscription-ecommerce-platform",
+          "domain": "shopify.com",
+          "position": 6,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/enterprise/blog/subscription-management-software",
+          "domain": "shopify.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.wix.com/blog/best-platform-for-selling-subscriptions-online",
+          "domain": "wix.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/blog/best-recurring-payment-system",
+          "domain": "shopify.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.bigcommerce.com/blog/ecommerce-subscriptions/",
+          "domain": "bigcommerce.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-open-source",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:13.596Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.forbes.com/advisor/business/software/best-ecommerce-platform/",
+          "domain": "forbes.com",
+          "position": 1,
+          "inAnswer": false
+        },
+        {
+          "url": "https://ecommerce-platforms.com/articles/open-source-ecommerce-platforms",
+          "domain": "ecommerce-platforms.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://ecomm.design/best-open-source-ecommerce-platforms/",
+          "domain": "ecomm.design",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://avada.io/blog/open-source-ecommerce-platforms/",
+          "domain": "avada.io",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/blog/open-source-ecommerce",
+          "domain": "shopify.com",
+          "position": 5,
+          "inAnswer": true
+        },
+        {
+          "url": "https://bagisto.com/en/open-source-ecommerce-github/",
+          "domain": "bagisto.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://webkul.com/blog/top-10-open-source-and-free-ecommerce-platforms/",
+          "domain": "webkul.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://wiserreview.com/blog/open-source-ecommerce-platform/",
+          "domain": "wiserreview.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.liquidweb.com/ecommerce/open-source/",
+          "domain": "liquidweb.com",
+          "position": 9,
+          "inAnswer": false
+        },
+        {
+          "url": "https://cmscritic.com/top-10-open-source-ecommerce-platforms",
+          "domain": "cmscritic.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-agentic",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:16.472Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.digitalapplied.com/blog/ecommerce-platform-comparison-2026-complete-matrix",
+          "domain": "digitalapplied.com",
+          "position": 1,
+          "inAnswer": true
+        },
+        {
+          "url": "https://elogic.co/blog/ai-in-ecommerce-platforms/",
+          "domain": "elogic.co",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://alhena.ai/blog/agentic-storefronts-are-here-what-ecommerce-brands-need-to-know/",
+          "domain": "alhena.ai",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://meetanshi.com/blog/best-agentic-commerce-platforms/",
+          "domain": "meetanshi.com",
+          "position": 4,
+          "inAnswer": true
+        },
+        {
+          "url": "https://aiweekly.co/ai-use-cases/industry/retail-ecommerce",
+          "domain": "aiweekly.co",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://emergent.sh/learn/ai-agent-for-ecommerce",
+          "domain": "emergent.sh",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.emarketer.com/content/faq-on-agentic-commerce-how-brands-should-act-now-compete-ai-driven-landscape",
+          "domain": "emarketer.com",
+          "position": 7,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.elsner.com/agentic-commerce-guide/",
+          "domain": "elsner.com",
+          "position": 8,
+          "inAnswer": true
+        },
+        {
+          "url": "https://fin.ai/learn/what-is-agentic-commerce",
+          "domain": "fin.ai",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.swell.is/content/best-agentic-commerce-platforms",
+          "domain": "swell.is",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    },
+    {
+      "queryId": "ecom-small-business",
+      "engineId": "perplexity-sonar",
+      "model": "sonar",
+      "measuredAt": "2026-10-05T10:30:15.662Z",
+      "status": "ok",
+      "referenceMarkersDetected": true,
+      "citations": [
+        {
+          "url": "https://www.hostinger.com/tutorials/best-ecommerce-platforms/",
+          "domain": "hostinger.com",
+          "position": 1,
+          "inAnswer": false
+        },
+        {
+          "url": "https://learn.g2.com/best-ecommerce-platforms",
+          "domain": "learn.g2.com",
+          "position": 2,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.shopify.com/blog/best-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 3,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.novo.co/software/ecommerce",
+          "domain": "novo.co",
+          "position": 4,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/ae/blog/best-ecommerce-platform-small-business",
+          "domain": "shopify.com",
+          "position": 5,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.shopify.com/blog/cheap-ecommerce-platforms",
+          "domain": "shopify.com",
+          "position": 6,
+          "inAnswer": true
+        },
+        {
+          "url": "https://stripe.com/resources/more/ecommerce-platforms-for-small-businesses-a-guide-to-get-started",
+          "domain": "stripe.com",
+          "position": 7,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.techradar.com/news/the-best-ecommerce-platform",
+          "domain": "techradar.com",
+          "position": 8,
+          "inAnswer": false
+        },
+        {
+          "url": "https://www.wix.com/blog/best-ecommerce-platforms",
+          "domain": "wix.com",
+          "position": 9,
+          "inAnswer": true
+        },
+        {
+          "url": "https://www.bigcommerce.com/articles/ecommerce/small-business-ecommerce/",
+          "domain": "bigcommerce.com",
+          "position": 10,
+          "inAnswer": false
+        }
+      ]
+    }
+  ],
+  "partial": false
+}
